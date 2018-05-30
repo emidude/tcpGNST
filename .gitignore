@@ -1,0 +1,7 @@
+Assets/video/
+builds/
+Temp/
+Library/PlayerDataCache/
+
+*.apk
+
